@@ -15,10 +15,13 @@ Some of the features include:
    control the above properties
 -- Free, Open Source, DIY, Minimal
     
-Have fun. Feedback is appreciated.
-
 The software is open source and hosted on Github® at 
 http://github.com/rcaceres/nonprojector.
+
+It has only been tested with Mac OS 10.5 Leopard. Compatibility with Snow
+Leopard is currently untested.
+
+Have fun. Feedback is appreciated.
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
