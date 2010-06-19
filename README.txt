@@ -2,7 +2,7 @@ DESCRIPTION:
 
 This is a barebones video mixer patch for Apple Quartz Composer®. It can be
 as or used as a starting point for your own patches. It is called
-"Nonprojection" because it was created for and used at two concerts of music
+"Nonprojector" because it was created for and used at two concerts of music
 by musicians from the record label NonProjects® (see http://nonprojects.net).
 
 Some of the features include:
@@ -14,7 +14,7 @@ Some of the features include:
 -- Hook up your own MIDI, OSC, or HID devices through Quartz Composer to 
    control the above properties
 -- Free, Open Source, DIY, Minimal
-
+    
 Have fun. Feedback is appreciated.
 
 The software is open source and hosted on Github® at 
@@ -25,8 +25,8 @@ http://github.com/rcaceres/nonprojector.
 GETTING STARTED:
 
 Check out the two tutorial videos for help on getting started:
-01 http://
-02 http://
+01 http://www.youtube.com/watch?v=Glr_HuwdWWU
+02 http://www.youtube.com/watch?v=0FRYPPk-Ogk
 
 First set up the user input by assigning midi cc values to as many of the
 parameters as you need. Next, load some videos into the video sources. You can
